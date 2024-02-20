@@ -1,8 +1,8 @@
 # Data_Science_Price_Prediction
 
 1) About Project
-    -In this porject we build a machine learning model who is predict the price of the house.
-    -In this project, we use supervised learning.
+    - In this porject we build a machine learning model who is predict the price of the house.
+    - In this project, we use supervised learning.
 
 2) Data Cleaning
     - We remove some columns for fast performance.
